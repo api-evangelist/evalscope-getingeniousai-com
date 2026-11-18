@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EvalEgress (Ingenious AI) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://evalscope.getingeniousai.com
+EvalEgress (Ingenious AI) provides a real‑time boundary‑scanner that measures data egress during AI agent evaluations. It helps organizations identify and control unintended data leaks by scanning repository files, configuration texts, and other inputs without making network calls or accessing live systems. The service stores minimal metadata, redacts secret‑like values, and offers a free tier for quick assessments, with paid plans for deeper analysis and compliance reporting.
+
+**Areas:** Company · AI · Security · DataProtection · Monitoring
+
+## EvalEgress (Ingenious AI) on APIs.io
+
+Everything profiled for EvalEgress (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/evalscope-getingeniousai-com/](https://apis.io/providers/evalscope-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [EvalScope API](https://apis.io/apis/evalscope-getingeniousai-com/evalscope-api/) — Eval-to-production boundary exposure scanning API. Provides health check, scan execution, and usage metrics.
+- [ADMT API](https://apis.io/apis/evalscope-getingeniousai-com/admt-api/) — Automated decision-making notice kit API. Metered, API-key-authenticated surface.
+- [AgentBlock API](https://apis.io/apis/evalscope-getingeniousai-com/agentblock-api/) — Classify a user-agent string against AgentBlock's versioned, dated known-AI-agent database.
+- [AgentGate API](https://apis.io/apis/evalscope-getingeniousai-com/agentgate-api/) — Key-authenticated API for managing agent gates.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [EvalEgress (Ingenious AI) Agentic Access](https://apis.io/agentic-access/evalscope-getingeniousai-com/evalscope-getingeniousai-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [EvalEgress (Ingenious AI) API Rules](https://apis.io/rules/evalscope-getingeniousai-com/evalscope-getingeniousai-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [EvalEgress (Ingenious AI) Authentication](https://apis.io/security/evalscope-getingeniousai-com/evalscope-getingeniousai-com-authentication/)
+- [EvalEgress (Ingenious AI) Domain Security](https://apis.io/security/evalscope-getingeniousai-com/evalscope-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [EvalEgress (Ingenious AI) Plans Pricing](https://apis.io/plans/evalscope-getingeniousai-com/evalscope-getingeniousai-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://evalscope.getingeniousai.com)
+- [Documentation](https://evalscope.getingeniousai.com/openapi.json)
+- [Pricing](https://evalscope.getingeniousai.com/pricing)
+- [Terms of service](https://evalscope.getingeniousai.com/terms)
+- [Privacy policy](https://evalscope.getingeniousai.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.3** — thin · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 12.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/evalscope-getingeniousai-com/](https://apis.io/providers/evalscope-getingeniousai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for EvalEgress (Ingenious AI): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/evalscope-getingeniousai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
