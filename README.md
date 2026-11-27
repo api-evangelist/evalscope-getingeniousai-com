@@ -89,6 +89,12 @@ Which operations an agent can call, which act, and which need a human in the loo
 
 - [EvalEgress (Ingenious AI) Agentic Access](https://apis.io/agentic-access/evalscope-getingeniousai-com/evalscope-getingeniousai-com-agentic-access/)
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [EvalEgress (Ingenious AI) Openapi Overlay](https://apis.io/overlays/evalscope-getingeniousai-com/evalscope-getingeniousai-com-openapi-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -120,16 +126,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 38.3** — thin · rubric 0.27.0 · scored 2026-11-17
+**Kin Score 36.5** — thin · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
-| Discoverability | 71.4 |
+| Discoverability | 82.1 |
 | Contract quality | 0.0 |
 | Contract governance | 65.5 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 31.0 |
-| Access clarity | 73.2 |
+| Access clarity | 59.1 |
 
 **Agent readiness 12.8** — agent-aware
 
